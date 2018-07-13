@@ -1,0 +1,134 @@
+\documentclass[a4paper,11pt]{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage [english]{babel}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage[style=authoryear-icomp,maxcitenames=2,backend=biber,natbib=true]{biblatex} 
+\addbibresource{Literatur.bib}
+\usepackage[hidelinks]{hyperref}
+\setkomafont{sectioning}{\bfseries}
+
+\begin{document}
+\include{Deckblatt}
+	
+\newpage 
+\tableofcontents
+
+\newpage
+\listoftables
+
+\newpage
+\listoffigures
+
+\newpage
+\section{Abstract}
+150 words, brief overview of the thesis
+
+\newpage
+\section{Einleitung}
+research question + hypothesis \\
+motiv (why should we care about it?)(non-economist-comments ONLY in introduction and conclusion, should be left out in the main part)\\
+my contribution\\
+definition of education mismatch\\
+definition of subjective well-being\\
+results\\
+
+\newpage 
+\section{Literatur}
+1. previous research which is directly relevant to my research question\\
+2. in what way is my approach different from the things that have been done before?
+
+	
+\newpage 
+\section{Daten}
+
+\begin{enumerate}
+
+\item Beschreibung der Daten 
+	\begin{itemize}
+		\item Name, Quelle und Zeitraum der Daten
+		\item Panel-Data
+		\item unit of observations: Personen 
+		\item wie viele Observations
+		\item limitations of the data (such as missing 	variables, missing observations, survey response, small number of observations, etc.; highlight important limitations)
+	\end{itemize}
+\item Was wäre der perfekte Datensatz? ==> Vergleiche den vorhandenen Datensatz dazu\\
+
+\item relevante deskriptive Statistik 
+	\begin{itemize}
+		\item Tabelle arithmentische Mittel
+		\item Tabelle Standardabweichung 
+		\item => jeweils für die variablen, die ich in der analyse verwende
+		\item => Name der Variablen sollte für den Leser klar sein 
+	\end{itemize}
+
+
+\end{enumerate}
+
+
+
+
+
+\newpage
+\section{Methode}
+basic econometric specification\\
+explain each of the variables and parameters of interest, why are certain variables included and others not? use of OLS, IV or other and why is this appropriate\\
+discuss basic specification\\
+additional test and why\\
+
+
+\begin{itemize}
+\item Murillo 2012:(S.9 statistical measure of educational mismatch; mode as a reference value; 9 Jobkategorien; folgende variablen wurden definiert: 
+\begin{itemize}
+\item S => individuals years of schooling
+\item Sr => years of schooling required for the job
+\item So => years of overeducation
+\item Su => years of undereducation
+
+\end{itemize}
+
+\end{itemize}
+
+
+
+\newpage
+\section{Ergebnisse}
+what results did i receive in stata?
+
+\newpage
+\section{Fazit}
+summary of findings\\
+limitation of the results\\
+possible extensions\\
+speculation about implication of my results\\
+no new results!!
+
+
+\clearpage 
+\phantomsection
+\addcontentsline{toc}{section}{Literature}	
+\nocite{*}
+\printbibliography
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}

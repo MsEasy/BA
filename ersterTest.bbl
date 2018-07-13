@@ -1,0 +1,564 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{RN111}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{type}{Manuscript}
+      \field{year}{2017}
+    \endentry
+    \entry{RN103}{misc}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{month}{2}
+      \field{type}{Newspaper Article}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2018/02/02/opinion/millennials-germany-politics-merkel.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2018/02/02/opinion/millennials-germany-politics-merkel.html
+      \endverb
+    \endentry
+    \entry{RN106}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=3dc71c1692c27814ec94a01bc0400d6c}{%
+           family={Alfes},
+           familyi={A\bibinitperiod},
+           given={Kerstin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4d13fe33ede03321665941c5757df8fa}{%
+           family={Shantz},
+           familyi={S\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=98a3c2abc29ac3a353b7825c1cfafb52}{%
+           family={Baalen},
+           familyi={B\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{8ac1ae5ce58be9ef9c25cae0997ea9c0}
+      \strng{fullhash}{9f3294758c5780fd70ea2eaa535c1340}
+      \strng{bibnamehash}{9f3294758c5780fd70ea2eaa535c1340}
+      \strng{authorbibnamehash}{9f3294758c5780fd70ea2eaa535c1340}
+      \strng{authornamehash}{8ac1ae5ce58be9ef9c25cae0997ea9c0}
+      \strng{authorfullhash}{9f3294758c5780fd70ea2eaa535c1340}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09545395}
+      \field{journaltitle}{Human Resource Management Journal}
+      \field{number}{1}
+      \field{title}{Reducing perceptions of overqualification and its impact on job satisfaction: the dual roles of interpersonal relationships at work}
+      \field{type}{Journal Article}
+      \field{volume}{26}
+      \field{year}{2016}
+      \field{pages}{84\bibrangedash 101}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1111/1748-8583.12094
+      \endverb
+    \endentry
+    \entry{RN112}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=ca0c80670361c225343643cabbebfa2d}{%
+           family={Arvan},
+           familyi={A\bibinitperiod},
+           given={Marijana\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ca0c80670361c225343643cabbebfa2d}
+      \strng{fullhash}{ca0c80670361c225343643cabbebfa2d}
+      \strng{bibnamehash}{ca0c80670361c225343643cabbebfa2d}
+      \strng{authorbibnamehash}{ca0c80670361c225343643cabbebfa2d}
+      \strng{authornamehash}{ca0c80670361c225343643cabbebfa2d}
+      \strng{authorfullhash}{ca0c80670361c225343643cabbebfa2d}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How Overqualification Impacts Job Attitudes and Well-Being: The Unique Roles of Perceptions and Reality}
+      \field{type}{Thesis}
+      \field{year}{2015}
+    \endentry
+    \entry{RN116}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=78eaa6acce7e2f6639876899fab328c1}{%
+           family={Biner},
+           familyi={B\bibinitperiod},
+           given={Turkmen},
+           giveni={T\bibinitperiod},
+           givenun=0,
+           suffix={Burhan;\bibnamedelima Goksel},
+           suffixi={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           suffixun=0}}%
+      }
+      \strng{namehash}{78eaa6acce7e2f6639876899fab328c1}
+      \strng{fullhash}{78eaa6acce7e2f6639876899fab328c1}
+      \strng{bibnamehash}{78eaa6acce7e2f6639876899fab328c1}
+      \strng{authorbibnamehash}{78eaa6acce7e2f6639876899fab328c1}
+      \strng{authornamehash}{78eaa6acce7e2f6639876899fab328c1}
+      \strng{authorfullhash}{78eaa6acce7e2f6639876899fab328c1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Education and Job Mismatch}
+      \field{type}{Journal Article}
+      \field{year}{2012}
+    \endentry
+    \entry{RN101}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=36c716ffa75fcb2acd03580d128d9b70}{%
+           family={Breza},
+           familyi={B\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ece4acba70016a3ac451d676fd936237}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={Supreet},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=184341ec444a40c867c9eaaa3e8ed741}{%
+           family={Shamdasani},
+           familyi={S\bibinitperiod},
+           given={Yogita},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6571e521982dac4ad102827ade55a84d}
+      \strng{fullhash}{930be2ac71785705bfbf686456b64488}
+      \strng{bibnamehash}{930be2ac71785705bfbf686456b64488}
+      \strng{authorbibnamehash}{930be2ac71785705bfbf686456b64488}
+      \strng{authornamehash}{6571e521982dac4ad102827ade55a84d}
+      \strng{authorfullhash}{930be2ac71785705bfbf686456b64488}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0033-5533}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{2}
+      \field{title}{The Morale Effects of Pay Inequality*}
+      \field{type}{Journal Article}
+      \field{volume}{133}
+      \field{year}{2018}
+      \field{pages}{611\bibrangedash 663}
+      \range{pages}{53}
+      \verb{doi}
+      \verb 10.1093/qje/qjx041
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1093/qje/qjx041
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1093/qje/qjx041
+      \endverb
+    \endentry
+    \entry{RN102}{inbook}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=50ab0fe2936cb5ecc8cbdfa8f9d0e356}{%
+           family={Decancq},
+           familyi={D\bibinitperiod},
+           given={Koen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4ea558178a8d217f4ffb637acdb8ef14}{%
+           family={Fleurbaey},
+           familyi={F\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=aaecc419e21e1ef27aa4b9a4b8c9e042}{%
+           family={Schokkaert},
+           familyi={S\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=2393162982ae7062652c7d66e8a5c199}{%
+           family={Atkinson},
+           familyi={A\bibinitperiod},
+           given={Anthony\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=90636e48d954d6002dea3279a88ad5bd}{%
+           family={Bourguignon},
+           familyi={B\bibinitperiod},
+           given={François},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a1a2aaad9d7a44bd6358cb135a8ce44b}
+      \strng{fullhash}{ef0c061a5e1f94050275e4128d3f6416}
+      \strng{bibnamehash}{ef0c061a5e1f94050275e4128d3f6416}
+      \strng{authorbibnamehash}{ef0c061a5e1f94050275e4128d3f6416}
+      \strng{authornamehash}{a1a2aaad9d7a44bd6358cb135a8ce44b}
+      \strng{authorfullhash}{ef0c061a5e1f94050275e4128d3f6416}
+      \strng{editorbibnamehash}{f006ca1e89e01ff4275647d16bdfd368}
+      \strng{editornamehash}{f006ca1e89e01ff4275647d16bdfd368}
+      \strng{editorfullhash}{f006ca1e89e01ff4275647d16bdfd368}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbook of Income Distribution}
+      \field{isbn}{1574-0056}
+      \field{title}{Chapter 2 - Inequality, Income, and Well-Being}
+      \field{type}{Book Section}
+      \field{volume}{2}
+      \field{year}{2015}
+      \field{pages}{67\bibrangedash 140}
+      \range{pages}{74}
+      \verb{doi}
+      \verb https://doi.org/10.1016/B978-0-444-59428-0.00003-5
+      \endverb
+      \verb{urlraw}
+      \verb http://www.sciencedirect.com/science/article/pii/B9780444594280000035
+      \endverb
+      \verb{url}
+      \verb http://www.sciencedirect.com/science/article/pii/B9780444594280000035
+      \endverb
+    \endentry
+    \entry{RN110}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=5f0fefa51a37e79a7c1be4c728d6417f}{%
+           family={Erdogan},
+           familyi={E\bibinitperiod},
+           given={Berrin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f88737f2244e1a8af2397f9b9e664eb7}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Talya\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e04f6c71a99813722c93143affbf7a1e}{%
+           family={Peiró},
+           familyi={P\bibinitperiod},
+           given={José\bibnamedelima María},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2c493c4d7b97cfa92aad1045ea96d5c0}{%
+           family={Truxillo},
+           familyi={T\bibinitperiod},
+           given={Donald\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3bc7b582f26aa14b9fdeddb08f63f03f}
+      \strng{fullhash}{c4977100504d150647261200907d38d2}
+      \strng{bibnamehash}{3bc7b582f26aa14b9fdeddb08f63f03f}
+      \strng{authorbibnamehash}{3bc7b582f26aa14b9fdeddb08f63f03f}
+      \strng{authornamehash}{3bc7b582f26aa14b9fdeddb08f63f03f}
+      \strng{authorfullhash}{c4977100504d150647261200907d38d2}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1754-9426 1754-9434}
+      \field{journaltitle}{Industrial and Organizational Psychology}
+      \field{number}{02}
+      \field{title}{Overqualified Employees: Making the Best of a Potentially Bad Situation for Individuals and Organizations}
+      \field{type}{Journal Article}
+      \field{volume}{4}
+      \field{year}{2015}
+      \field{pages}{215\bibrangedash 232}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1111/j.1754-9434.2011.01330.x
+      \endverb
+    \endentry
+    \entry{RN113}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,uniquepart=given,hash=e631f4961e697c3122a9543c5dfb6c87}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=1cbab912a9f08532ca40f9e033b20807}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4db907f9d77b463f345a343e4b0b4e8a}
+      \strng{fullhash}{4db907f9d77b463f345a343e4b0b4e8a}
+      \strng{bibnamehash}{4db907f9d77b463f345a343e4b0b4e8a}
+      \strng{authorbibnamehash}{4db907f9d77b463f345a343e4b0b4e8a}
+      \strng{authornamehash}{4db907f9d77b463f345a343e4b0b4e8a}
+      \strng{authorfullhash}{4db907f9d77b463f345a343e4b0b4e8a}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0030-7653 1464-3812}
+      \field{journaltitle}{Oxford Economic Papers}
+      \field{number}{4}
+      \field{title}{Overqualification, job dissatisfaction, and increasing dispersion in the returns to graduate education}
+      \field{type}{Journal Article}
+      \field{volume}{62}
+      \field{year}{2010}
+      \field{pages}{740\bibrangedash 763}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1093/oep/gpq002
+      \endverb
+    \endentry
+    \entry{RN109}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=1,uniquepart=given,hash=6ac2f7e192b237f44588d7b76dc23545}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=1,
+           suffix={Francis;\bibnamedelima Zhu},
+           suffixi={F\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           suffixun=0}}%
+      }
+      \strng{namehash}{6ac2f7e192b237f44588d7b76dc23545}
+      \strng{fullhash}{6ac2f7e192b237f44588d7b76dc23545}
+      \strng{bibnamehash}{6ac2f7e192b237f44588d7b76dc23545}
+      \strng{authorbibnamehash}{6ac2f7e192b237f44588d7b76dc23545}
+      \strng{authornamehash}{6ac2f7e192b237f44588d7b76dc23545}
+      \strng{authorfullhash}{6ac2f7e192b237f44588d7b76dc23545}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Manpower Human Resources Lab}
+      \field{title}{Overqualification, Job Dissatisfaction and Increasing Dispersion in the Returns to Graduate Education}
+      \field{type}{Magazine Article}
+      \field{year}{2007}
+    \endentry
+    \entry{RN108}{thesis}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=f11100f9611dabe4058d9ef32ff9dc41}{%
+           family={Hoskins},
+           familyi={H\bibinitperiod},
+           given={Thomas\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f11100f9611dabe4058d9ef32ff9dc41}
+      \strng{fullhash}{f11100f9611dabe4058d9ef32ff9dc41}
+      \strng{bibnamehash}{f11100f9611dabe4058d9ef32ff9dc41}
+      \strng{authorbibnamehash}{f11100f9611dabe4058d9ef32ff9dc41}
+      \strng{authornamehash}{f11100f9611dabe4058d9ef32ff9dc41}
+      \strng{authorfullhash}{f11100f9611dabe4058d9ef32ff9dc41}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Effects of Perceived Overqualification on Job Satisfaction, Organizational Commitment, and Turnover: A Study of Afit Graduates}
+      \field{type}{Thesis}
+      \field{year}{2003}
+    \endentry
+    \entry{RN107}{report}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=d9636d63c85c1af04e30c39c99e8f8dc}{%
+           family={Quintini},
+           familyi={Q\bibinitperiod},
+           given={Glenda},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {OECD}%
+      }
+      \strng{namehash}{d9636d63c85c1af04e30c39c99e8f8dc}
+      \strng{fullhash}{d9636d63c85c1af04e30c39c99e8f8dc}
+      \strng{bibnamehash}{d9636d63c85c1af04e30c39c99e8f8dc}
+      \strng{authorbibnamehash}{d9636d63c85c1af04e30c39c99e8f8dc}
+      \strng{authornamehash}{d9636d63c85c1af04e30c39c99e8f8dc}
+      \strng{authorfullhash}{d9636d63c85c1af04e30c39c99e8f8dc}
+      \field{sortinit}{Q}
+      \field{sortinithash}{d257e420984a3a5c57a3330114cd646a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Right for the Job: Over-Qualified or Under-Skilled?}
+      \field{type}{Report}
+      \field{year}{2011}
+    \endentry
+    \entry{RN98}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=9661a14f9407afe08c8b32748595b02a}{%
+           family={Rehwaldt},
+           familyi={R\bibinitperiod},
+           given={Ricarda},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Name Springer Gabler, Wiesbaden}%
+      }
+      \strng{namehash}{9661a14f9407afe08c8b32748595b02a}
+      \strng{fullhash}{9661a14f9407afe08c8b32748595b02a}
+      \strng{bibnamehash}{9661a14f9407afe08c8b32748595b02a}
+      \strng{authorbibnamehash}{9661a14f9407afe08c8b32748595b02a}
+      \strng{authornamehash}{9661a14f9407afe08c8b32748595b02a}
+      \strng{authorfullhash}{9661a14f9407afe08c8b32748595b02a}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Die glückliche Organisation - Chancen und Hürden für positive Psychologie im Unternehmen}
+      \field{type}{Book}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://link.springer.com/book/10.1007/978-3-658-19251-8
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/book/10.1007/978-3-658-19251-8
+      \endverb
+    \endentry
+    \entry{RN104}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=99cc9002ff31b8e918b626936e5f6227}{%
+           family={Sutherland},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{99cc9002ff31b8e918b626936e5f6227}
+      \strng{fullhash}{99cc9002ff31b8e918b626936e5f6227}
+      \strng{bibnamehash}{99cc9002ff31b8e918b626936e5f6227}
+      \strng{authorbibnamehash}{99cc9002ff31b8e918b626936e5f6227}
+      \strng{authornamehash}{99cc9002ff31b8e918b626936e5f6227}
+      \strng{authorfullhash}{99cc9002ff31b8e918b626936e5f6227}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0040-0912}
+      \field{journaltitle}{Education + Training}
+      \field{number}{7}
+      \field{title}{Qualifications mismatch and skills mismatch}
+      \field{type}{Journal Article}
+      \field{volume}{54}
+      \field{year}{2012}
+      \field{pages}{619\bibrangedash 632}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1108/00400911211265666
+      \endverb
+    \endentry
+    \entry{RN105}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=aed2e11c605a436bafccf1865432e287}{%
+           family={Wassermann},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ffd710926647b3ce270817e40a79ff81}{%
+           family={Fujishiro},
+           familyi={F\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3da04e75b002a22966bc659bd081e78c}{%
+           family={Hoppe},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{065e706e184cb197afbc28b2365e9d7e}
+      \strng{fullhash}{9ac7f78260db5a350c8e1867a66762a1}
+      \strng{bibnamehash}{9ac7f78260db5a350c8e1867a66762a1}
+      \strng{authorbibnamehash}{9ac7f78260db5a350c8e1867a66762a1}
+      \strng{authornamehash}{065e706e184cb197afbc28b2365e9d7e}
+      \strng{authorfullhash}{9ac7f78260db5a350c8e1867a66762a1}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0147-1767 (Print) 0147-1767 (Linking)}
+      \field{journaltitle}{Int J Intercult Relat}
+      \field{title}{The effect of perceived overqualification on job satisfaction and career satisfaction among immigrants: Does host national identity matter?}
+      \field{type}{Journal Article}
+      \field{volume}{61}
+      \field{year}{2017}
+      \field{pages}{77\bibrangedash 87}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.ijintrel.2017.09.001
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/29527078
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/29527078
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
